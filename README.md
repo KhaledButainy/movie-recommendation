@@ -1,6 +1,14 @@
 # Movie Recommendation System - exploratory project
 In this repository, we experimented with developing a user-specific movie recommendation system that primarily uses average genre ratings and overall user ratings to predict the user-given scores for unseen movies. 
 
+## Table of Content
+### I. Introduction
+#### a. Dataset Information
+#### b. Implementation Plan
+### II. Dataset Preparation
+### III. Data Analysis
+### IV. Fitting Classifiers
+
 ## Requirements
 - plotly==5.9.0
 - matplotlib==3.5.0
